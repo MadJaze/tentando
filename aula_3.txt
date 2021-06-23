@@ -1,0 +1,175 @@
+    1  ls
+    2  ls -a
+    3  ls ..
+    4  pwd
+    5  cd documents/
+    6  pwd
+    7  ls
+    8  cd ~
+    9  pwd
+   10  cd Desktop
+   11  ls
+   12  rm banner-promocional
+   13  rm BANNER PROMOCIONAL.pdf
+   14  rm 'BANNER PROMOCIONAL.pdf' 
+   15  mkdir commando-git
+   16  mkdir -p new/old
+   17  rm new
+   18  rm 'new'
+   19  ls new
+   20  rm new/
+   21  rm 'Tabela KF TURISMO.pdf' 
+   22  rm new/
+   23  ls
+   24  rm -r new
+   25  echo 
+   26  echo 'uma mensagem no seu shell'
+   27  cat
+   28  cat 'DECLARAÇÃO-DE-RESIDENCIA.pdf' 
+   29  64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c
+   30  cat 'RELATÓRIO ESTÁGIO DE ALIMENTOS.docx' 
+   31  64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c  pwd
+   32  pwd
+   33  mv 'commando-git' commando_git
+   34  mkdir new
+   35  mv commando_git/new
+   36  mv --help
+   37  mv new commando_git
+   38  mv new desktop
+   39  cd commando_git/
+   40  mv new desktop 
+   41  mkdir test
+   42  cd ..
+   43  mkdir again
+   44  mv again commando_git
+   45  pwd
+   46  cd desktop
+   47  cd commando_git
+   48  touch arquivo.pdf
+   49  arquivo.doc
+   50  clear
+   51  touch arquivo.docx
+   52  cat > arquivo.docx 
+   53  cat > 'arquivo.docx' 
+   54  clear
+   55  touch arquivo2.txt
+   56  cat > arquivo2.txt
+   57  clear
+   58  cd..
+   59  cd ..
+   60  cat RELATÓRIO\ ESTÁGIO\ DE\ ALIMENTOS.docx 
+   61  64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c
+   62  64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c64;1;2;4;6;9;15;21;22;28;29c
+   63  pwd
+   64  cd desktop/commando_git
+   65  ls
+   66  rm -r again desktop test
+   67  cat arquivo.docx
+   68  cat arquivo.docx
+   69  rm arquivo.docx
+   70  touch arquivo.docx
+   71  cat arquivo.docx
+   72  history 
+   73  pwd
+   74  touch readme.md
+   75  rm readme.md
+   76  cat arquivo.txt
+   77  clear
+   78  history
+   79  ls
+   80  rm arquiovo.txt arquivo.txt
+   81  clear
+   82  ls
+   83  touch readme.md
+   84  clear
+   85  git commit -m "Primeiro Commit"
+   86  git status 
+   87  git branch -M "main"
+   88  git remote add origin https://github.com/MadJaze/projeto-git.git
+   89  git push -U origin main  
+   90  git push -u origin main
+   91  pwd
+   92  cd desktop/
+   93  ls
+   94  cd commando_git/
+   95  git status 
+   96  git remote add origin 
+   97  usuario@LG MINGW64 ~/Desktop/commando_git (main)
+   98  $ git push -u origin main
+   99  $ git push -u origin main https://github.com/MadJaze/projeto-git.git
+  100  $ git remote add origin main https://github.com/MadJaze/projeto-git.git
+  101  $ git remote add origin https://github.com/MadJaze/projeto-git.git
+  102  git push -u origin main
+  103  git branch -M "master"
+  104  git push -u origin master 
+  105  rm commando_git
+  106  rm commando_git/
+  107  rm -r commando_git
+  108  rm -r commando_git
+  109  pwd
+  110  cd desktop/commando_git
+  111  ls
+  112  ls -a
+  113  rm ..
+  114  pwd
+  115  cd desktop
+  116  mkdir comando-git
+  117  ls
+  118  clear
+  119  git config user.name
+  120  git config user.email
+  121  clear
+  122  cd comando-git/
+  123  touch readme.md
+  124  git init
+  125  git status 
+  126  ls -a
+  127  echo 'aprendendo a usar git' > readme.md
+  128  git status 
+  129  git add readme.md 
+  130  git status 
+  131  git commit -m 'Tentei fazer commit antes mais não consegui'
+  132  git status 
+  133  echo 'auxilio' >> readme.md
+  134  git status
+  135  echo 'Jasiel Padrón' > participante.txt 
+  136  git status 
+  137  git add .
+  138  git status 
+  139  git status 
+  140  git restore --staged participante.txt
+  141  git status 
+  142  git add participante.txt
+  143  git status 
+  144  git restore --staged participante.txt
+  145  git status 
+  146  git add participante.txt 
+  147  git status 
+  148  echo  'Escrever algo primeiro e depois aplicar dois signos de maior, depois, nome do arquivo >> readme.md
+
+
+  149  echo 'mensagem'
+  150  echo 'mensagem de natal' >> readme.md
+  151  git status
+  152  git add readme.md
+  153  git status 
+  154  cat participante.txt
+  155  cat >> participante.txt
+  156  cat participante.txt
+  157  clear
+  158  git status
+  159  git add participante.txt
+  160  git restore --staged participante.txt
+  161  git status
+  162  cat participante.txt
+  163  git add participante.txt
+  164  clear
+  165  git status
+  166  git restore --staged .
+  167  git status 
+  168  git commit -am 'Alteração no readme'
+  169  git status
+  170  git add participante.txt
+  171  git commit -m 'adicionando participante.txt'
+  172  git status 
+  173  history > aula_3.txt
