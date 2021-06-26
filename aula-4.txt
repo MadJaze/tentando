@@ -1,0 +1,129 @@
+    1   git log
+    2  git fetch main
+    3  clear
+    4  git branch main 
+    5  clear
+    6  git log
+    7  clear
+    8  git log
+    9  git log --pretty=oneline
+   10  git status 
+   11  git branch brutal
+   12  git log --pretty=oneline 
+   13  git log --stat
+   14  echo 'loco' >> participante.txt
+   15  git log --stat
+   16  git status
+   17  git add participante.txt
+   18  git status
+   19  git commit participante.txt
+   20  git status
+   21  clear
+   22  git status
+   23  git commit participante.txt
+   24  git status 
+   25  cat participante.txt
+   26  git log --stat
+   27  git log -p
+   28  git status participante.txt
+   29  git lo participante.txt
+   30  git log participante.txt
+   31  git log --pretty=oneline -2
+   32  git log --since=2.minutes
+   33  git log --since=10.minutes
+   34  git log --since=20.minutes
+   35  got log --author='MadJaze'
+   36  git log --author='MadJaze'
+   37  git checkout HEAD--
+   38  git checkout HEAD~~
+   39  git switch -c "Fazendogitswitch'
+
+dedo
+
+   40  git log 
+   41  git branch 'testando'
+   42  git log
+   43  git switch -
+   44  git log 
+   45  git checkout HEAD-3
+   46  git log --pretty=oneline
+   47  git checkout HEAD~~
+   48  git log --pretty=oneline
+   49  git checkout HEAD~
+   50  git log --pretty=oneline
+   51  git branch 'git-é-fácil?'
+   52  git branch 'só-uma-palavra'
+   53  git log --pretty=oneline
+   54  git checkout master 
+   55  git log --pretty=oneline
+   56  git checkout HEAD~~~~
+   57  git branch 'gosto-de-escrever-coisas'
+   58  git checkout HEAD~
+   59  git branch 'meu-primeiro-commit'
+   60  git checkou master
+   61  git checkout master 
+   62  git log -pretty=oneline
+   63  git log --pretty=oneline
+   64  clear
+   65  git status]
+   66  clear
+   67  git status 
+   68  echo "Espero que este estudio me de un trabajo al final" >> Mensagem-segreda.txt
+   69  cat Mensagem-segreda.txt
+   70  clear
+   71  git status
+   72  git add Mensagem-segreda.txt
+   73  git status
+   74  git commit -m 'Esqueci comittar'
+   75  git status
+   76  git log
+   77  git checkout meu-primeiro-commit
+   78  git checkout 53c49
+   79  git branch 'o-melhor-commit-de-todos'
+   80  git checkout master
+   81  git log --pretty=oneline 
+   82  git reset -soft HEAD~
+   83  git reset --soft HEAD~
+   84  git log --pretty=oneline
+   85  git status
+   86  git commit -m 'commitando de novo'
+   87  git log --pretty=oneline
+   88  git reset --hard HEAD~
+   89  git status
+   90  git log --pretty=oneline
+   91  git reset
+   92  git status
+   93  git log --pretty=oneline
+   94  git checkout testando]
+   95  git log --pretty=oneline
+   96  git checkout HEAD~~
+   97  git log --pretyy=oneline
+   98  clear
+   99  git log --pretty=oneline 
+  100  ls
+  101  git checkout HEAD~~
+  102  git log --pretty=oneline
+  103  ls
+  104  git checkout master 
+  105  ls
+  106  clear
+  107  mkdir .vscode 
+  108  ls
+  109  ls -a
+  110  touch config.txt
+  111  mv config.txt .vscode/
+  112  ls
+  113  ls -a
+  114  git status 
+  115  echo '.vscode/ > .gitignore
+
+  116  echo '.vscode/' > .gitignore
+  117  git status
+  118  touch another.conf
+  119  git status
+  120  echo 'another.conf' >> .gitignore
+  121  git status
+  122  git add .gitignore
+  123  git commit -m 'adicionando arquivo .gitignore'
+  124  git status
+  125  history > 'aula-4.txt'
